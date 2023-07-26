@@ -1,15 +1,4 @@
-<style>
-    .item {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        width: 100%;
-        margin-bottom: 30px;
-        padding: 10px;
-    }
-</style>
-
-<div class="item">
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; margin-bottom: 30px;padding: 10px;">
     <picture class="img">
         <source
             srcset="https://github-readme-stats.vercel.app/api?username=iewnfod&show_icons=true&theme=dark"
