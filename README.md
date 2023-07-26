@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=iewnfod&show_icons=true" />
 </picture>
 
-![Iewnfod's Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=iewnfod&layout=compact)
+![Iewnfod's Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=iewnfod&layout=donut)
 
 </div>
 
