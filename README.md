@@ -1,3 +1,14 @@
+<style>
+    .item {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        margin-bottom: 30px;
+        padding: 10px;
+    }
+</style>
+
 <div class="item">
     <picture class="img">
         <source
