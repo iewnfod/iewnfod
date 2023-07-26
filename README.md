@@ -1,3 +1,5 @@
+<div style="display: flex; flex-direction: row">
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=iewnfod&show_icons=true&theme=dark"
@@ -11,6 +13,8 @@
 </picture>
 
 ![Iewnfod's Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=iewnfod&layout=compact)
+
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iewnfod/iewnfod/output/github-contribution-grid-snake-dark.svg">
