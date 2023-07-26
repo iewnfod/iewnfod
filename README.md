@@ -16,9 +16,7 @@
     <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iewnfod&layout=donut" />
 </div>
 
-<h2 id="contribution" style="transform: translate3d(0, 1em, 0);">
-    Github Contributions
-</h2>
+### Github Contributions
 <div class="item">
     <picture class="img">
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iewnfod/iewnfod/output/github-contribution-grid-snake-dark.svg">
