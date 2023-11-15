@@ -8,5 +8,7 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iewnfod/iewnfod/output/github-contribution-grid-snake.svg">
 </picture>
 
-## Donate for Me
-* [爱发电](https://afdian.net/a/iewnfod)
+***Buy Me a Coffee***
+| [爱发电](https://afdian.net/a/iewnfod) |
+| - |
+| ![爱发电](./assets/afdian-Iewnfod.jpeg) |
