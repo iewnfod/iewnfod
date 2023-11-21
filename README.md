@@ -9,6 +9,6 @@
 </picture>
 
 ***Buy Me a Coffee***
-| [爱发电](https://afdian.net/a/iewnfod) |
-| - |
-| ![爱发电](./assets/afdian-Iewnfod.jpeg) |
+<a href="https://afdian.net/a/iewnfod">
+<img src="./assets/afdian-Iewnfod.jpeg" align="center" alt="爱发电" height=600>
+</a>
