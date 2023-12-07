@@ -10,5 +10,5 @@
 
 ***Buy Me a Coffee***
 <a href="https://afdian.net/a/iewnfod">
-<img src="./assets/afdian-Iewnfod.jpeg" align="center" alt="爱发电" height=600>
+<img src="./assets/afdian-Iewnfod.jpeg" align="center" alt="爱发电" height=200>
 </a>
