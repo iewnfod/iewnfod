@@ -1,7 +1,7 @@
 ### Hi, I'm Iewnfod
 * 😙 My name is **Wu ZiQian** / **Iewnfod**
 * 🏫 Studying in **Ulink College of Shanghai**
-* ⚡ Rust / Python3
+* ⚡ Rust / TypeScript / Python3
 * 🪐 Video Games / Music / Animation
 
 ### Github Contributions
@@ -13,3 +13,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iewnfod/iewnfod/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iewnfod/iewnfod/output/github-contribution-grid-snake.svg">
 </picture>
+
+### Support My Projects
+* [爱发电 Iewnfod](https://afdian.net/a/iewnfod)
