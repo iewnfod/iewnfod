@@ -1,6 +1,6 @@
 ### Hi, I'm Iewnfod
 * 😙 My name is **Wu ZiQian** / **Iewnfod**
-* 🏫 Studying in **Ulink College of Shanghai**
+* 🏫 Studying in **The University of Hong Kong**
 * ⚡ Rust / TypeScript / Python3
 * 🪐 Video Games / Music / Animation
 
