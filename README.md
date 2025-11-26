@@ -5,7 +5,7 @@
 * 🪐 Video Games / Music / Animation
 
 ### Github Contributions
-| <picture><img src="https://github-readme-stats.vercel.app/api?username=iewnfod&show_icons=true&hide_border=true&theme=buefy" align="center" alt="Iewnfod's Github Stats"/></picture> | <picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iewnfod&layout=donut&hide_border=true&theme=buefy" align="center" alt="Iewnfod's Github Language Use"/></picture> |
+| <picture><img src="https://github-readme-stats.iewnfod.com/api?username=iewnfod&show_icons=true&hide_border=true&theme=buefy" align="center" alt="Iewnfod's Github Stats"/></picture> | <picture><img src="https://github-readme-stats.iewnfod.com/api/top-langs/?username=iewnfod&layout=donut&hide_border=true&theme=buefy" align="center" alt="Iewnfod's Github Language Use"/></picture> |
 | - | - |
 
 <picture>
