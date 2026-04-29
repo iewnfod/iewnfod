@@ -1,5 +1,5 @@
 ### Hi, I'm Iewnfod
-* 😙 My name is **Mu Yunxi** / **Iewnfod**
+* 😙 My name is **吴子谦** / **慕芸熙** / **Iewnfod**
 * 🏫 Studying in **The University of Hong Kong**
 * ⚡ Rust / TypeScript / C++
 * 🪐 Video Games / Music / Animation
