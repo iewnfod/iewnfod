@@ -1,7 +1,7 @@
 ### Hi, I'm Iewnfod
-* 😙 My name is **Wu ZiQian** / **Iewnfod**
+* 😙 My name is **Mu Yunxi** / **Iewnfod**
 * 🏫 Studying in **The University of Hong Kong**
-* ⚡ Rust / TypeScript / Python3
+* ⚡ Rust / TypeScript / C++
 * 🪐 Video Games / Music / Animation
 
 ### Github Contributions
